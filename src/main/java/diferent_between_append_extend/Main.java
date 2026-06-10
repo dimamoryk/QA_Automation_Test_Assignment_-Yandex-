@@ -1,4 +1,4 @@
-package diferent_between_append_extend;
+package different_between_append_extend;
 
 import java.util.*;
 
